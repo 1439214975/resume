@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+*{padding:0; margin:0;}
+h1,h2,h3,h4,h5,h6,ul,li,p,form,label,nav,footer,aside,header,section,article,dialog,figure,figcaption,hgroup{display:block;}
+ul{list-style:none;}
+.clearfix:after{clear:both; height:0; visibility:hidden; content:"."; display:block;}
+a{text-decoration:none; outline:none;}
+.ellipsis{white-space:nowrap;/*空白不换行*/ text-overflow:ellipsis; overflow: hidden;}
+body{overflow-x:hidden; font-family: "微软雅黑";}
